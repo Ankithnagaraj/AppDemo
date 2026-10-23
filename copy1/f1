@@ -1,0 +1,17 @@
+
+# Simple Student Management Demo
+
+student_name = "Ankith"
+course = "AWS and Linux"
+score = 85
+
+print("===== Student Details =====")
+print("Name:", student_name)
+print("Course:", course)
+print("Score:", score)
+
+if score >= 80:
+    print("Result: Excellent")
+else:
+    print("Result: Keep Practicing")
+
