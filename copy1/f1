@@ -3,7 +3,7 @@
 
 student_name = "Ankith"
 course = "AWS and Linux"
-score = 85
+score = 95
 
 print("===== Student Details =====")
 print("Name:", student_name)
